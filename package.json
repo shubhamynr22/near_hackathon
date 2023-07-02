@@ -1,0 +1,16 @@
+{
+  "name": "near_hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "near-cli": "^3.4.2",
+    "near-sdk-as": "^3.2.3",
+    "near-sdk-js": "^1.0.0"
+  }
+}

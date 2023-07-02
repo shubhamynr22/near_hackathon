@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "target": "es2018",
+      "module": "commonjs",
+      "outDir": "build",
+      "strict": true,
+      "esModuleInterop": true,
+      "inlineSourceMap": true,
+      "inlineSources": true
+    },
+    "include": ["contract.ts"],
+    "nearConfig": {
+      "entryFile": "contract.ts"
+    }
+  }
+  
